@@ -1,5 +1,5 @@
 {
-  "name": "tublian-customer-otp-code-backend-api",
+  "name": "tublian-customer-otp-code-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
